@@ -1,0 +1,17 @@
+{
+  "name": "buscardorcosas",
+  "version": "1.0.0",
+  "description": "e4xamen para dvinci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Romero",
+  "license": "ISC",
+  "dependencies": {
+    "chromeless": "^1.5.2",
+    "express": "^4.17.1",
+    "flexsearch": "^0.6.22",
+    "google-search-results-nodejs": "^1.2.0"
+  }
+}
