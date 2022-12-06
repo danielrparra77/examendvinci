@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chromeless": "^1.5.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "flexsearch": "^0.6.22",
     "google-search-results-nodejs": "^1.2.0"
   }
